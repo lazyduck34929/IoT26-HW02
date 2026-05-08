@@ -3,7 +3,7 @@ Repository for documenting 'Introduction to the Internet of Things HW02'
 
 HW 2: Read Digital Inputs with Python (Buttons and Other Peripherals)
 
-Screenshot of RPI IDE
+Code
 <img width="1692" height="1922" alt="hw2 ide" src="https://github.com/user-attachments/assets/67757e03-dacf-493b-ac5d-b06fad8bc329" />
 
 
